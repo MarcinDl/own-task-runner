@@ -1,7 +1,7 @@
 #npm
 
 przykładowy task runner.
-
+PROBA
 Uruchamiany komendą: * *npm run watch* *
 
 
@@ -12,6 +12,7 @@ Uruchamiany komendą: * *npm run watch* *
 Aby uruchomić tylko eslint wpisujemy * *npm run test:js* *
 
 **EditorConfig:**
+
 Zainstalować (dla VS Code): https://marketplace.visualstudio.com/items?itemName=chrisdias.vscodeEditorConfig
 
 - stosowanie wcięć (indentacji) w postaci 2 spacji,
