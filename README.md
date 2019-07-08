@@ -1,9 +1,11 @@
 #npm
 
 przykładowy task runner.
-PROBA
-Uruchamiany komendą: * *npm run watch* *
 
+Zainstalować komendą * *npm install* *
+
+Uruchamiany komendą: * *npm run watch* *
+s
 
 **ESlint:**
 - poprawne formatowanie, zgodne z tym ustawionym w EditorConfig (wcięcia, zakończenia linii),
