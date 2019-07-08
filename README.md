@@ -1,8 +1,45 @@
 #npm
 
+task runner
+
+install by command: * *npm install* *
+
+Run by command: * *npm run watch* *
+
+
+**ESlint:**
+- correct formatting, consistent with that set in EditorConfig (indentation, end of line),
+- single quotes,
+- semicolons at the end of each line (except exceptions).
+To run only eslint, enter * *npm run test:js* *
+
+**EditorConfig:**
+
+- using indentation in the form of 2 spaces,
+- encoding the utf-8 and unix file of the end of the line,
+- removing spaces at the end of the line,
+- adding an empty line at the end of the file.
+
+Commissioning: * * after installation works automatically * *
+
+**StyleLint:**
+- correct formatting, consistent with that set in EditorConfig (indentation, end of line),
+- space required after the colon,
+- new line after semicolon required,
+- no more than two empty lines immediately after each other,
+- maximum nesting of 4 levels (not counting pseudoclasses),
+- we do not use the & sign with no need,
+- we do not define the same variable many times.
+
+Run by command: * *npm run test:scss* *
+
+
+
+#npm
+
 przykładowy task runner.
 
-Zainstalować komendą * *npm install* *
+Instalacja komendą: * *npm install* *
 
 Uruchamiany komendą: * *npm run watch* *
 

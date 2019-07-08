@@ -1,5 +1,7 @@
-console.log("dwa")
+console.log('dwa');
 
-function siedem(){
-  alert("wiadomośćs")
+document.getElementById('button').addEventListener('click', buttonClick);
+
+function buttonClick(){
+    alert('wiadomosc');
 }
